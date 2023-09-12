@@ -1,0 +1,44 @@
+.btn {
+  cursor: pointer;
+  outline: none;
+  border: none;
+  font-family: "Spartan", sans-serif;
+}
+.medium {
+  font-size: 0.75rem;
+  font-weight: 700;
+  line-height: 1.25;
+  border-radius: 10em;
+}
+
+.large {
+  font-size: 0.75rem;
+  font-weight: 700;
+  line-height: 1.25;
+  border-radius: 10em;
+  padding: 1rem 1.5rem;
+}
+.transparent-btn {
+  margin: 1.75em 0;
+  border: none;
+  padding: 0.25em;
+  background: transparent;
+  cursor: pointer;
+  outline: none;
+}
+
+
+
+
+
+.add-item-btn {
+  width: 100%;
+  background: var(--clr-alt-bg);
+  color: var(--clr-sec-text);
+  transition: background 300ms ease , color 300ms ease ;
+}
+
+
+
+
+
